@@ -1,3 +1,4 @@
+DATA SCIENCE LEARNING TASK
 Task 1: Data Science Applications Brainstorm
 
 What I Learned: I found lots of cool ways data science is used, like predicting patient care in healthcare, spotting fraud in finance, and segmenting customers in marketing.
